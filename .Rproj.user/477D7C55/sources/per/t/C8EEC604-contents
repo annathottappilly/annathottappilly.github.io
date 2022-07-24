@@ -1,0 +1,23 @@
+---
+title: "Anna Thottappilly"
+site: distill::distill_website
+---
+```{css, echo=FALSE}
+h1, h4 {
+  text-align: center;
+}
+```
+<center>
+<img src="images/anna_headshot-2.jpg" style="width:40%;" >
+</center>
+<p>&nbsp;</p>  
+
+
+Hello! 
+
+I am a rising sixth year PhD candidate at the [Charles H. Dyson School of Applied Economics and Management](https://dyson.cornell.edu/programs/graduate/phd/){target="_blank"}, Cornell University. I am a development economist interested in agriculture, nutrition and climate change. 
+
+My research focuses on how climate change related factors such as elevated carbon dioxide in the atmosphere can alter agricultural yield and has impacts on future nutrition security. My research also involves trying to characterize Indian agricultural market to help identify better nutrition interventions.
+
+
+Outside of research, I am an avid reader of fiction. I am also good at crochet and love all things beaches.
