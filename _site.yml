@@ -1,0 +1,23 @@
+name: "revathy-suryanarayana"
+title: "Anna Thottappilly"
+favicon: images/favicon.png
+base_url: https://annathottappilly.github.io/
+#google_analytics: "G-75HL00LT6X"
+description: |
+  Anna Thottappilly
+output_dir: "."
+navbar:
+  left:
+#    - text: "Research"
+#      href: research.html
+    - text: "CV"
+      href: files/Anna_Thottappilly_CV.pdf
+      
+  right:
+    - icon: fa-envelope fa-lg
+      href: "mailto:adt64@cornell.edu"
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/annathotta
+
+output: distill::distill_article
+theme: anna.css
