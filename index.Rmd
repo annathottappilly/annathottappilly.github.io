@@ -1,0 +1,20 @@
+---
+title: ""
+pagetitle: "Anna Thottappilly"
+---
+<center>
+<img src="images/anna_headshot-2.jpg" style="width:25%;" >
+</center>
+<p>&nbsp;</p> 
+--------------------------------------------------------------------------
+
+Hello! 
+
+I am an Assistant Professor at the [Department of Economic Sciences](https://www.iitk.ac.in/new/economics){target="_blank"}, IIT Kanpur. I am a development economist interested in agriculture, nutrition and climate change. 
+
+My research focuses on how climate change related factors such as elevated carbon dioxide in the atmosphere can alter agricultural yield and has impacts on future nutrition security. My research also involves trying to characterize Indian agricultural market to help identify better nutrition interventions.
+
+
+Outside of research, I am an avid reader of fiction. I am also good at crochet and love all things beaches.
+
+--------------------------------------------------------------------------

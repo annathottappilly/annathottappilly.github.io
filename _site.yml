@@ -1,0 +1,21 @@
+name: "Anna Thottappilly"
+output_dir: "."
+navbar:
+  title: "Anna Thottappilly"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "CV"
+      href: files/Anna_Thottappilly_CV.pdf
+      
+  right:
+    - icon: fa-envelope fa-lg
+      href: "mailto:adt64@cornell.edu"
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/annathotta
+output:
+  html_document:
+    theme: flatly
+    css: 'styles.css'

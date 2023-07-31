@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Anna Thottappilly",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\nHello!\r\nI am a rising sixth year PhD candidate at the Charles H. Dyson School of Applied Economics and\r\nManagement, Cornell University. I am a development economist\r\ninterested in agriculture, nutrition and climate change.\r\nMy research focuses on how climate change related factors such as\r\nelevated carbon dioxide in the atmosphere can alter agricultural yield\r\nand has impacts on future nutrition security. My research also involves\r\ntrying to characterize Indian agricultural market to help identify\r\nbetter nutrition interventions.\r\nOutside of research, I am an avid reader of fiction. I am also good\r\nat crochet and love all things beaches.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-28T11:17:50-04:00"
+    },
+    {
+      "path": "research.html",
+      "title": "Research",
+      "author": [],
+      "contents": "\r\nWorking Papers\r\nIdentifying\r\nThe Income Effect On Nutrition For Agricultural Households: Separability\r\nOf Production And Consumption\r\nI investigate the characterization of the Indian agricultural market\r\nusing a panel data of 960 households in Maharashtra state. I find that\r\nproduction and consumption are separable in the rural agriculture\r\nmarket. Using a multinomial logistic regression model, I find that\r\nincome increase of households improve the nutrition measured as diet\r\ndiversity score (ranging from 0 to 10) establishing the link between\r\nfrom production to consumption preferences. In fact, women of the\r\nhouseholds consume an additional food group if the agricultural income\r\nfrom sale of crops increase by rupees 500. On the other hand, regressing\r\nthe diet diversity score on the health variable of the women show no\r\nsignificant result. This goes to establish that there is no dependence\r\nof labor characteristics on consumption preferences, that is production\r\nis independent of consumption preferences.\r\nCO2\r\nFertilization: Assessing the Impact of Carbon Dioxide on Agricultural\r\nYield\r\nIn this paper I validate the result that carbon dioxide improves crop\r\nyield under field conditions, which hitherto was only part of controlled\r\nfield experiments and crop science studies. Using the nascent remote\r\nsensing atmospheric carbon dioxide from NASA’s Orbiting Carbon\r\nObservatory – 2 and the agricultural yield data obtained from\r\nICRISAT-TCI I identify that elevated atmospheric carbon dioxide\r\nincreases yield of both wheat and rice over the period 2014 – 17 in\r\nIndia. I make use of the solar induced fluorescence (SIF) to overcome\r\nsimultaneity between carbon dioxide in the atmosphere and crop yields,\r\nsince carbon dioxide is both absorbed and released by plants in the two\r\ndifferent physiological processes of photosynthesis and respiration. An\r\nincrease of one part per million carbon dioxide in the atmosphere raises\r\nrice yield measured in kilograms per hectare by 0.5 percent, and wheat\r\nyield increases by 1.3 percent.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-28T11:17:51-04:00"
+    }
+  ],
+  "collections": []
+}
