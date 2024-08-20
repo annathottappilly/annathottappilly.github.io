@@ -5,27 +5,39 @@ pagetitle: "Teaching"
 
 <p>&nbsp;</p>
 
-## ***Teaching Assistant***
-### Cornell University
-- Managerial Economics (AEM 5600)
-  - Fall 2022
-- Research and Methods II (AEM 6992)
-  - Spring 2019
-- Managerial Economics I (AEM 2600)
-  - Fall 2018
+### **IIT Kanpur** ###
+##### INSTRUCTOR
+- Fall 2024 - ECO111 Economy, Society & Public Policy (Undergraduate)
+- Spring 2024 - ECO718 Agricultural Economics (Graduate)                 
+  - 3.80/4.00
+  
+##### TUTOR
+- Fall 2023 - ECO211 Microeconomics I (Undergraduate)
+  - 3.38/4.00
+
+--------------------------------------------------------------------------
+
+### **Cornell University** ###
+##### TEACHING ASSISTANT
+- Fall 2022 - AEM5600 Managerial Economics (Graduate)
+  - 4.80/5.00
+- Spring 2019 - AEM6992 Research and Methods II (Graduate)
+- Fall 2018 - AEM2600 Managerial Economics I (Undergraduate)
+  - 4.60/5.00
   
 --------------------------------------------------------------------------
 
-## ***Instructor***
-### University of Delhi
-- Introductory Microeconomics (Undergraduate)
-    - Fall 2016
-- Introductory Econometrics (Undergraduate)
-    - Spring 2017
+### **University of Delhi** ###
+##### INSTRUCTOR
+- Spring 2017 - Introductory Econometrics (Undergraduate)
+- Fall 2016 - Introductory Microeconomics (Undergraduate)
+
+--------------------------------------------------------------------------
     
-### University of Calicut
-- Introductory Econometrics (Graduate)
-  - Spring 2016
+### **University of Calicut** ###
+##### INSTRUCTOR
+- Spring 2016 - Introductory Econometrics (Graduate)
+- Spring 2016 - International Economics (Undergraduate)
 
 --------------------------------------------------------------------------
 
