@@ -18,10 +18,10 @@ There have been limited studies that identify the large-scale impact of atmosphe
 
 We prove that under separable production and consumption, farm revenue from the sale of crops is independent of household characteristics, such as land and labor endowments. We use this result to test for separability. Analyzing a panel of 960 households in Chandrapur district of India, our fixed effects model reveal a positive correlation between land ownership and farm revenue, controlling for confounding variables. Land and labor endowments are positively correlated with farm revenue for small and marginal land-owning households and for households that grow food crops. Thus, we find that there is a breakdown of separability between produciton and consumption for the households.
 
-#### **<u>Mitigating Food Insecurity and Climate Change with Digital Agriulture</u>**
+#### **<u>Mitigating Food Insecurity and Climate Change with Digital Agriculture</u>**
 ###### (with Vanisha Sharma, Shree Saha & Prabhu L. Pingali)
 
-Through an in-depth review of empirical studies, case examples, and emerging trendso, this review paper seeks to underscore the transformative potential of digital agriculture in promoting sustainable food systems. We examine the convergence of technological innovation, data analytics, and agricultural practices to elucidate how digital agriculture unfolds two major pathways towards sustainability, i.e, food security and climate change. 
+Through an in-depth review of empirical studies, case examples, and emerging trends, this review paper seeks to underscore the transformative potential of digital agriculture in promoting sustainable food systems. We examine the convergence of technological innovation, data analytics, and agricultural practices to elucidate how digital agriculture unfolds two major pathways towards sustainability, i.e, food security and climate change. 
 
 ____________________________________________________________________________
 
